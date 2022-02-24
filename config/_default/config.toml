@@ -1,4 +1,4 @@
-baseurl = "https://doks.netlify.app/"
+baseurl = "https://www.sutta.id/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
