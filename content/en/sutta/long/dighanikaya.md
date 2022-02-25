@@ -1,7 +1,7 @@
 ---
 title: "Digha Nikaya"
-description: "Doks comes with commands for common tasks."
-lead: "Doks comes with commands for common tasks."
+description: "Dīgha Nikāya, atau “Kumpulan Khotbah Panjang” (Pāḷi dīgha = “panjang”) adalah bagian pertama dari Sutta Piṭaka, dan terdiri dari tiga-puluh-empat sutta, dikelompokkan menjadi tiga vagga, atau bagian."
+lead: "Dīgha Nikāya, atau “Kumpulan Khotbah Panjang” (Pāḷi dīgha = “panjang”) adalah bagian pertama dari Sutta Piṭaka, dan terdiri dari tiga-puluh-empat sutta, dikelompokkan menjadi tiga vagga, atau bagian."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -13,8 +13,8 @@ weight: 100
 toc: true
 ---
 
-{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." />}}
+{{< alert icon="💡" text="Masih dalam pengembangan" />}}
 
-## create
+## Digha Nikaya Sutta List
 
-Create new content for your site:
+Testing

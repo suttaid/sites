@@ -1,7 +1,7 @@
 ---
 title: "Dirgha Agama"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+description: ".."
+lead: ".."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -9,10 +9,10 @@ images: []
 menu:
   long:
     parent: "long"
-weight: 120
+weight: 110
 toc: true
 ---
 
-## Get started
+## Belum Di buat
 
-There are two main ways to get started with Doks:
+Masih belum di buat.
