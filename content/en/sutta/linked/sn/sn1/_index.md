@@ -8,8 +8,8 @@ draft: false
 images: []
 menu:
   sutta:
-    parent: "sn"
-    identifier: "sn1"
+    parent: "sn1"
+
 weight: 300
 toc: true
 ---

@@ -8,8 +8,7 @@ draft: false
 images: []
 menu:
   sutta:
-    parent: "sn"
-      identified: "sn3"
+    parent: "sn3"
 weight: 302
 toc: true
 ---

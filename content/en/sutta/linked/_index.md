@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   sutta:
-    parent: "sutta"
+    parent: "linked"
 weight: 100
 toc: true
 ---
