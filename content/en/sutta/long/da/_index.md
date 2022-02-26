@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   long:
-    parent: "long"
+    parent: "da"
 weight: 110
 toc: true
 ---
