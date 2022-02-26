@@ -7,9 +7,9 @@ lastmod: 2022-01-18T20:05:19+01:00
 draft: false
 images: []
 menu:
-  docs:
+  sutta:
     parent: "sn"
-      identified: "sit"
-weight: 710
+      identified: "sn3"
+weight: 302
 toc: true
 ---

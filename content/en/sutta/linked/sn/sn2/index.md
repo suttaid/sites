@@ -7,8 +7,9 @@ lastmod: 2022-01-18T20:01:45+01:00
 draft: false
 images: []
 menu:
-  docs:
-    parent: "ipsum"
-weight: 700
+  sutta:
+    parent: "sn"
+      identifier: "sn2"
+weight: 301
 toc: true
 ---
